@@ -1,1 +1,4 @@
 # BrawlStarsDraftAnalysis
+
+Ideas
+
